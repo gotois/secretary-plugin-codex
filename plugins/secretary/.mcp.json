@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "secretary": {
+      "type": "http",
+      "url": "https://api.gotointeractive.com/mcp"
+    }
+  }
+}

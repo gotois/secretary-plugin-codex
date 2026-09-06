@@ -1,0 +1,27 @@
+{
+  "name": "secretary",
+  "version": "0.0.1",
+  "description": "Personal Secretary plugin with calendar tools and planning skills",
+  "author": {
+    "name": "Denis Baskovsky"
+  },
+  "license": "Apache-2.0",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Secretary",
+    "shortDescription": "Plan days, manage tasks, and balance priorities.",
+    "longDescription": "Personal Secretary workflows backed by the Secretary MCP server. Connect with your own Secretary account.",
+    "developerName": "GIC DAO",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Plan my day around my goals and calendar.",
+      "Analyze the balance between areas of my life.",
+      "Help me decide using the 10/10/10 method."
+    ]
+  },
+  "mcpServers": "./.mcp.json"
+}

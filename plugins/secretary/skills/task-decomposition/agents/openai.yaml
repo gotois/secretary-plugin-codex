@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Decomposition"
+  short_description: "Разбивает большие задачи на понятные шаги"
+  default_prompt: "Use $task-decomposition to break this Secretary task into actionable subtasks."

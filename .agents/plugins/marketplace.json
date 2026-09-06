@@ -1,0 +1,20 @@
+{
+  "name": "secretary-codex",
+  "interface": {
+    "displayName": "Secretary"
+  },
+  "plugins": [
+    {
+      "name": "secretary",
+      "source": {
+        "source": "local",
+        "path": "./plugins/secretary"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

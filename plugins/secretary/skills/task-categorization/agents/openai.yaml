@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Categorization"
+  short_description: "Выбирает одну из четырёх категорий Secretary"
+  default_prompt: "Use $task-categorization to choose the Secretary category for this task."
