@@ -3,14 +3,16 @@
   "version": "0.0.1",
   "description": "Personal Secretary plugin with calendar tools and planning skills",
   "author": {
-    "name": "Denis Baskovsky"
+    "name": "Denis Baskovsky",
+    "email": "baskovsky@ya.ru",
+    "url": "https://baskovsky.ru"
   },
   "license": "Apache-2.0",
   "skills": "./skills/",
   "interface": {
     "displayName": "Secretary",
-    "shortDescription": "Plan days, manage tasks, and balance priorities.",
-    "longDescription": "Personal Secretary workflows backed by the Secretary MCP server. Connect with your own Secretary account.",
+    "shortDescription": "Plan days, manage tasks, and balance priorities",
+    "longDescription": "Personal Secretary workflows backed by the Secretary MCP server",
     "developerName": "GIC DAO",
     "category": "Productivity",
     "capabilities": [

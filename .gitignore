@@ -2,4 +2,3 @@
 node_modules/
 .env
 .env.*
-plugins/*/.app.json
